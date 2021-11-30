@@ -1,0 +1,10 @@
+nextjs 12
+react
+debounce
+tailwind css
+spotify api
+oauth jwt
+access/refresh token
+tokens
+nextauth
+recoil
